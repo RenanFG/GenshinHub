@@ -52,3 +52,12 @@ body{
     border-color: var(--mainL1);
 }
 
+select option{
+    background-color: var(--mainL5);
+    border-color: var(--mainL1);
+    text-shadow: var(--mainL7);
+}
+
+.res-btn{
+    background-color: var(--mainL6);
+}
